@@ -37,6 +37,7 @@ When the `Windows Defender SmartScreen` warning appears:
 When you see `"App is damaged and can't be opened"` or `"unidentified developer"` on first launch:
 
 1. In the Applications folder, **right-click the novel-timeline icon** and choose **"Open"**.
+   *(If your mouse doesn't support right-click — e.g. Apple Magic Mouse — hold **`Control`** while clicking instead.)*
 2. If the security dialog appears again, click **"Open"** once more.
 3. After approving once, normal double-click works.
 
