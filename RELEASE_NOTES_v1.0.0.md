@@ -80,16 +80,22 @@
 3. SmartScreen 경고가 뜨면 작은 글씨의 **"추가 정보"** → **"실행"** 을 차례로 클릭합니다.
 4. 안내에 따라 설치를 마치면 시작 메뉴와 바탕화면에 아이콘이 만들어집니다.
 
-### macOS 12 이상
+### macOS 12 이상 (Apple Silicon)
 
-1. [Latest Release](https://github.com/seo1westn2020/novelTimeline_release/releases/latest) 페이지에서 본인 Mac에 맞는 dmg 파일을 받습니다.
-   - **Apple Silicon** (M1/M2/M3/M4 등): `..._aarch64.dmg`
-   - **Intel Mac**: `..._x64.dmg`
+> v1.0.0은 **Apple Silicon (M1 / M2 / M3 / M4 등)** 빌드만 제공합니다. Intel Mac은 별도 빌드가 필요하므로 우선 제외했습니다 — 사용을 원하시면 **askNovelTimeline@gmail.com** 으로 요청해 주세요. 요청이 들어오면 Intel Mac 빌드를 추가합니다.
+
+1. [Latest Release](https://github.com/seo1westn2020/novelTimeline_release/releases/latest) 페이지에서 `novel-timeline_<버전>_aarch64.dmg` 파일을 받습니다.
 2. 받은 .dmg 파일을 더블클릭하면 마운트되며, novel-timeline 아이콘을 **응용 프로그램** 폴더로 끌어다 놓습니다.
 3. 첫 실행 시 응용 프로그램 폴더에서 **아이콘을 우클릭 → "열기"** 를 선택합니다 (그냥 더블클릭하면 막힐 수 있습니다).
+   *(Apple Magic Mouse 등 우클릭이 안 되는 마우스를 쓰신다면 **`Control` 키를 누른 채 클릭** 하시면 됩니다.)*
 4. 보안 다이얼로그에서 한 번 더 **"열기"** 를 클릭하면 정상 실행됩니다.
 
 > macOS Sequoia(15) 이상에서 위 방법으로도 막힐 경우, **시스템 설정 → 개인정보 보호 및 보안** 화면 하단의 **"확인 없이 열기"** 버튼을 사용해 주세요.
+
+> 그래도 안 될 경우, 터미널에서 아래 명령으로 quarantine 속성을 제거할 수 있습니다:
+> ```bash
+> xattr -d com.apple.quarantine "/Applications/novel-timeline.app"
+> ```
 
 ---
 
