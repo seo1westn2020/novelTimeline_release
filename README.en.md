@@ -16,13 +16,31 @@ long-form manuscript work.
 
 ## Download
 
-The latest builds are available on the [Releases](https://github.com/seo1westn2020/novelTimeline_release/releases) page:
+The latest build is available on the **[Latest Release](https://github.com/seo1westn2020/novelTimeline_release/releases/latest)** page. For the full release history, see the [Releases](https://github.com/seo1westn2020/novelTimeline_release/releases) page.
 
-- **Windows**: `.msi` installer
-- **macOS**: `.dmg` (coming soon)
+| OS | File | Notes |
+|---|---|---|
+| **Windows 10 / 11** | `novel-timeline_<version>_x64-setup.exe` | NSIS installer |
+| **macOS 12+** | `novel-timeline_<version>_aarch64.dmg` (Apple Silicon) / `..._x64.dmg` (Intel) | Disk image |
 
-On Windows, if you see a SmartScreen warning, choose
-"More info → Run anyway" (code-signing certificate in preparation).
+> These builds are **not yet code-signed.** Your OS may flag the app as "from an unidentified developer," but the app runs fine.
+
+### If Windows blocks the installer
+
+When the `Windows Defender SmartScreen` warning appears:
+
+1. Click the small **"More info"** link to reveal the **Run** button.
+2. Click **"Run"** to proceed with the installation.
+
+### If macOS blocks the app
+
+When you see `"App is damaged and can't be opened"` or `"unidentified developer"` on first launch:
+
+1. In the Applications folder, **right-click the novel-timeline icon** and choose **"Open"**.
+2. If the security dialog appears again, click **"Open"** once more.
+3. After approving once, normal double-click works.
+
+> On macOS Sequoia (15) or later, if right-click is also blocked, go to **System Settings → Privacy & Security** and click **"Open Anyway"** at the bottom.
 
 ---
 
