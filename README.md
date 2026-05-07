@@ -20,8 +20,8 @@
 
 | OS | 파일 | 비고 |
 |---|---|---|
-| **Windows 10 / 11** | `novel-timeline_<버전>_x64-setup.exe` | NSIS 인스톨러 |
-| **macOS 12+** | `novel-timeline_<버전>_aarch64.dmg` (Apple Silicon) / `..._x64.dmg` (Intel) | 디스크 이미지 |
+| **Windows 10 / 11** | [novel-timeline_1.0.0_x64-setup.exe](https://github.com/seo1westn2020/novelTimeline_release/releases/download/v1.0.0/novel-timeline_1.0.0_x64-setup.exe) | NSIS 인스톨러 |
+| **macOS 12+ (Apple Silicon)** | [novel-timeline_1.0.0_aarch64.dmg](https://github.com/seo1westn2020/novelTimeline_release/releases/download/v1.0.0/novel-timeline_1.0.0_aarch64.dmg) | 디스크 이미지 |
 
 > 본 빌드는 아직 **코드 서명 인증서가 적용되어 있지 않습니다.** 운영체제가 "출처를 알 수 없는 앱"으로 표시할 수 있으나, 실제 실행에는 문제가 없습니다.
 

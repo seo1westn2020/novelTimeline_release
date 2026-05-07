@@ -20,8 +20,8 @@ The latest build is available on the **[Latest Release](https://github.com/seo1w
 
 | OS | File | Notes |
 |---|---|---|
-| **Windows 10 / 11** | `novel-timeline_<version>_x64-setup.exe` | NSIS installer |
-| **macOS 12+** | `novel-timeline_<version>_aarch64.dmg` (Apple Silicon) / `..._x64.dmg` (Intel) | Disk image |
+| **Windows 10 / 11** | [novel-timeline_1.0.0_x64-setup.exe](https://github.com/seo1westn2020/novelTimeline_release/releases/download/v1.0.0/novel-timeline_1.0.0_x64-setup.exe) | NSIS installer |
+| **macOS 12+ (Apple Silicon)** | [novel-timeline_1.0.0_aarch64.dmg](https://github.com/seo1westn2020/novelTimeline_release/releases/download/v1.0.0/novel-timeline_1.0.0_aarch64.dmg) | Disk image |
 
 > These builds are **not yet code-signed.** Your OS may flag the app as "from an unidentified developer," but the app runs fine.
 
