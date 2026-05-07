@@ -42,6 +42,11 @@ When you see `"App is damaged and can't be opened"` or `"unidentified developer"
 
 > On macOS Sequoia (15) or later, if right-click is also blocked, go to **System Settings → Privacy & Security** and click **"Open Anyway"** at the bottom.
 
+> If none of the above works, open Terminal and remove the quarantine attribute:
+> ```bash
+> xattr -d com.apple.quarantine "/Applications/novel-timeline.app"
+> ```
+
 ---
 
 ## Features
