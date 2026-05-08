@@ -25,6 +25,8 @@
 
 > 📋 v1.0.0의 새 기능·수정·알려진 제약: [RELEASE_NOTES_v1.0.0.md](./RELEASE_NOTES_v1.0.0.md)
 
+> 📘 자주 묻는 질문(FAQ): [FAQ.md](./FAQ.md)
+
 > 본 빌드는 아직 **코드 서명 인증서가 적용되어 있지 않습니다.** 운영체제가 "출처를 알 수 없는 앱"으로 표시할 수 있으나, 실제 실행에는 문제가 없습니다.
 
 ### Windows에서 실행이 막힐 때
@@ -151,8 +153,8 @@ novel-timeline은 1인 인디 프로젝트입니다. **금전 후원뿐 아니�
 ## 라이선스
 
 본 소프트웨어는 **End User License Agreement(EULA)** 에 따라 배포됩니다.
-설치 전 [LICENSE](./LICENSE) 파일을 확인해 주세요 (영문 번역본: [LICENSE.en](./LICENSE.en)).
-두 문서 간 불일치가 있을 경우 한국어 원본이 우선합니다.
+설치 전 [LICENSE.en](./LICENSE.en) 파일을 확인해 주세요 (한국어 참고 번역: [LICENSE](./LICENSE)).
+두 문서 간 불일치가 있을 경우 **영문판이 우선**합니다.
 
 Copyright © 2026 서일선 (novel-timeline). All rights reserved.
 

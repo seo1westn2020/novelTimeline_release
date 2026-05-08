@@ -27,6 +27,8 @@ The latest build is available on the **[Latest Release](https://github.com/seo1w
 
 > 📋 What's new in v1.0.0: [RELEASE_NOTES_v1.0.0.en.md](./RELEASE_NOTES_v1.0.0.en.md)
 
+> 📘 Frequently Asked Questions (FAQ): [FAQ.en.md](./FAQ.en.md)
+
 > These builds are **not yet code-signed.** Your OS may flag the app as "from an unidentified developer," but the app runs fine.
 
 ### If Windows blocks the installer
@@ -155,8 +157,8 @@ Non-monetary contributions are equally welcome. Reach out via email **askNovelTi
 
 The Software is distributed under an **End User License Agreement (EULA)**.
 Please review the [LICENSE.en](./LICENSE.en) file before installation.
-For the Korean original, see [LICENSE](./LICENSE); in case of any
-inconsistency, the Korean version prevails.
+For the Korean reference translation, see [LICENSE](./LICENSE); in any
+conflict, the **English version prevails**.
 
 Copyright © 2026 Seo Il-seon (novel-timeline). All rights reserved.
 
