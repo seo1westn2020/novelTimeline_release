@@ -11,7 +11,7 @@ Organize complex characters, events, foreshadowings, and relationships
 at a glance — with a built-in writing editor and AI integration for
 long-form manuscript work.
 
-> This repository is the official **open-beta distribution channel**.
+> This repository is the official **release distribution channel** for novel-timeline.
 > The source code is maintained in a separate private repository.
 
 ---
