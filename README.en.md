@@ -29,6 +29,17 @@ The latest build is available on the **[Latest Release](https://github.com/seo1w
 
 > 📘 Frequently Asked Questions (FAQ): [FAQ.en.md](./FAQ.en.md)
 
+### 📦 Sample projects (NTZ)
+
+The app starts with an empty project on first launch. We provide a short fantasy-story sample in 4 languages to demonstrate the features — open it via the hamburger menu ≡ → **Import NTZ**. Each sample includes 3 characters, 6 events, foreshadowings, relationship graph, written chapters, footnotes, and reference photos.
+
+| Language | Download |
+|---|---|
+| 🇰🇷 한국어 | [sample-ko.ntz](https://github.com/seo1westn2020/novelTimeline_release/releases/download/v1.0.0/sample-ko.ntz) |
+| 🇺🇸 English | [sample-en.ntz](https://github.com/seo1westn2020/novelTimeline_release/releases/download/v1.0.0/sample-en.ntz) |
+| 🇯🇵 日本語 | [sample-ja.ntz](https://github.com/seo1westn2020/novelTimeline_release/releases/download/v1.0.0/sample-ja.ntz) |
+| 🇨🇳 中文 | [sample-zh.ntz](https://github.com/seo1westn2020/novelTimeline_release/releases/download/v1.0.0/sample-zh.ntz) |
+
 > These builds are **not yet code-signed.** Your OS may flag the app as "from an unidentified developer," but the app runs fine.
 
 ### If Windows blocks the installer

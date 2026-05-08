@@ -27,6 +27,17 @@
 
 > 📘 자주 묻는 질문(FAQ): [FAQ.md](./FAQ.md)
 
+### 📦 샘플 프로젝트 (NTZ)
+
+처음 실행 시 빈 프로젝트로 시작합니다. 기능 사용법을 짧은 판타지 스토리로 보여주는 4언어 샘플을 제공하니 햄버거 메뉴 ≡ → **NTZ 가져오기**로 열어보세요. 인물 3명·사건 6개·복선·관계도·집필 본문·각주·참고 사진까지 모두 포함되어 있습니다.
+
+| 언어 | 다운로드 |
+|---|---|
+| 🇰🇷 한국어 | [sample-ko.ntz](https://github.com/seo1westn2020/novelTimeline_release/releases/download/v1.0.0/sample-ko.ntz) |
+| 🇺🇸 English | [sample-en.ntz](https://github.com/seo1westn2020/novelTimeline_release/releases/download/v1.0.0/sample-en.ntz) |
+| 🇯🇵 日本語 | [sample-ja.ntz](https://github.com/seo1westn2020/novelTimeline_release/releases/download/v1.0.0/sample-ja.ntz) |
+| 🇨🇳 中文 | [sample-zh.ntz](https://github.com/seo1westn2020/novelTimeline_release/releases/download/v1.0.0/sample-zh.ntz) |
+
 > 본 빌드는 아직 **코드 서명 인증서가 적용되어 있지 않습니다.** 운영체제가 "출처를 알 수 없는 앱"으로 표시할 수 있으나, 실제 실행에는 문제가 없습니다.
 
 ### Windows에서 실행이 막힐 때
