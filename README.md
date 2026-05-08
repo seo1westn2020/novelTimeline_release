@@ -21,7 +21,9 @@
 | OS | 파일 | 비고 |
 |---|---|---|
 | **Windows 10 / 11** | [novel-timeline_1.0.0_x64-setup.exe](https://github.com/seo1westn2020/novelTimeline_release/releases/download/v1.0.0/novel-timeline_1.0.0_x64-setup.exe) | NSIS 인스톨러 |
-| **macOS 12+ (Apple Silicon)** | [novel-timeline_1.0.0_aarch64.dmg](https://github.com/seo1westn2020/novelTimeline_release/releases/download/v1.0.0/novel-timeline_1.0.0_aarch64.dmg) | 디스크 이미지 |
+| **macOS 12+ (Apple Silicon)** | [novel-timeline_1.0.0_aarch64.dmg](https://github.com/seo1westn2020/novelTimeline_release/releases/download/v1.0.0/novel-timeline_1.0.0_aarch64.dmg) | 디스크 이미지 (Apple Silicon 전용) |
+
+> 📋 v1.0.0의 새 기능·수정·알려진 제약: [RELEASE_NOTES_v1.0.0.md](./RELEASE_NOTES_v1.0.0.md)
 
 > 본 빌드는 아직 **코드 서명 인증서가 적용되어 있지 않습니다.** 운영체제가 "출처를 알 수 없는 앱"으로 표시할 수 있으나, 실제 실행에는 문제가 없습니다.
 
@@ -55,8 +57,12 @@
 - **타임라인** — 시간 축 기반 사건 정리, 동시 사건 그룹핑, 드래그 재정렬
 - **관계도** — 인물 관계를 시각화, 페이지별 인물 선택 + 필터(생존자/카테고리)
 - **인물 관리** — 성격·말투·세력 소속·상태 타임라인
+- **세력 관리** — 인물의 세력 가입/탈퇴 시점 추적, 이중 소속 감지
 - **복선 관리** — 심은 시점·회수 시점 연동
 - **집필 에디터** — A4 페이지 분리 레이아웃, 각주 시스템, 미리보기/인쇄
+- **AI 충돌 검증·초고 생성 (BYOK)** — OpenAI / Anthropic / Google / Ollama 자체 키 사용
+- **자동 저장** — 모든 변경은 자동으로 보존, 종료 시에도 데이터 유실 없음
+- **새 버전 알림 배지** — 새 릴리즈가 올라오면 헤더에 자동 배지 표시 (하루 1회 갱신)
 - **수집자료** — 자료 이미지·텍스트·링크 보관
 - **내보내기** — TXT(챕터별·전체) / JSON(전체·선택·관계페이지별)
 - **다국어** — 한국어 / 영어 / 일본어 / 중국어
@@ -73,6 +79,8 @@
 | **연 구독 (Annual)** | $80 / 년 | 전 기능 사용, 연 단위 결제 (월 대비 약 33% 할인) |
 
 > 영구 라이선스는 제공하지 않습니다.
+
+> 모든 SKU(월/연 구독)는 결제 후 **14일 이내 무조건 환불**이 가능합니다 ([환불 정책](./legal/refund.md)).
 
 ### 체험·구독 만료 후 (읽기 전용 모드)
 

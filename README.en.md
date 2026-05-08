@@ -4,6 +4,8 @@
 
 # novel-timeline
 
+> 🌐 **Language**: [한국어](./README.md) · English (this file)
+
 A **timeline-based story management tool** for novelists.
 Organize complex characters, events, foreshadowings, and relationships
 at a glance — with a built-in writing editor and AI integration for
@@ -21,7 +23,9 @@ The latest build is available on the **[Latest Release](https://github.com/seo1w
 | OS | File | Notes |
 |---|---|---|
 | **Windows 10 / 11** | [novel-timeline_1.0.0_x64-setup.exe](https://github.com/seo1westn2020/novelTimeline_release/releases/download/v1.0.0/novel-timeline_1.0.0_x64-setup.exe) | NSIS installer |
-| **macOS 12+ (Apple Silicon)** | [novel-timeline_1.0.0_aarch64.dmg](https://github.com/seo1westn2020/novelTimeline_release/releases/download/v1.0.0/novel-timeline_1.0.0_aarch64.dmg) | Disk image |
+| **macOS 12+ (Apple Silicon)** | [novel-timeline_1.0.0_aarch64.dmg](https://github.com/seo1westn2020/novelTimeline_release/releases/download/v1.0.0/novel-timeline_1.0.0_aarch64.dmg) | Disk image (Apple Silicon only) |
+
+> 📋 What's new in v1.0.0: [RELEASE_NOTES_v1.0.0.en.md](./RELEASE_NOTES_v1.0.0.en.md)
 
 > These builds are **not yet code-signed.** Your OS may flag the app as "from an unidentified developer," but the app runs fine.
 
@@ -55,10 +59,14 @@ When you see `"App is damaged and can't be opened"` or `"unidentified developer"
 - **Timeline** — Organize events on a time axis, group concurrent events, drag to reorder
 - **Relationship Graph** — Visualize character relationships, per-page character selection, filter by alive status / category
 - **Character Management** — Personality, speech style, faction membership, status timeline
-- **Foreshadowing Tracking** — Link planted and revealed events
+- **Faction Management** — Track each character's faction join/leave timeline, detect dual membership
+- **Foreshadowing Tracking** — Link setups and payoffs (planted and paid-off events)
 - **Writing Editor** — A4 paginated layout, footnote system, preview/print
+- **AI conflict checking / draft generation (BYOK)** — OpenAI / Anthropic / Google / Ollama with your own key
+- **Auto-save** — every change is preserved automatically; no data loss on exit
+- **New version alert badge** — auto badge in header when a new release lands (checked once a day)
 - **Collections** — Store reference images, text, and links
-- **Export** — TXT (per chapter / full), JSON (full / selected / per graph page)
+- **Export** — TXT (per chapter / full), JSON (full / selected / per relationship-graph page)
 - **i18n** — Korean / English / Japanese / Chinese
 - **Themes** — Dark / Light
 
@@ -74,6 +82,8 @@ When you see `"App is damaged and can't be opened"` or `"unidentified developer"
 
 > No perpetual license is offered.
 
+> All SKUs (monthly/annual) are eligible for an unconditional refund within 14 days of purchase ([Refund Policy](./legal/refund.en.md)).
+
 ### Read-only mode after trial or subscription expiry
 
 If the 3-month trial expires without an active paid subscription, or an active subscription expires or is cancelled, the app enters **Read-only mode**.
@@ -86,7 +96,7 @@ If the 3-month trial expires without an active paid subscription, or an active s
 | Edit events/characters/foreshadowings/relationships, etc. | | ❌ |
 | Import external files · create new projects | | ❌ |
 
-**User data files are never altered or destroyed**, and can always be exported for external backup.
+**User data files are never damaged or destroyed**, and can always be exported for external backup.
 
 Payment and license-key issuance/validation are handled by [Lemon Squeezy](https://lemonsqueezy.com).
 
@@ -96,10 +106,9 @@ Payment and license-key issuance/validation are handled by [Lemon Squeezy](https
 
 1. Upon purchase, a **license key** will be sent to your email.
 2. Launch novel-timeline → **Settings → License Key** and paste the key.
-3. Once validated, paid features (lifted usage limits, etc.) will be
-   activated automatically.
+3. Once validated, paid features will be activated automatically.
 
-Even if your internet connection is unstable, the Software will continue
+Even if your internet connection is unstable, the app will continue
 to function normally during a **30-day offline grace period**.
 
 ---

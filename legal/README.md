@@ -14,8 +14,8 @@ Legal terms that apply when you use or purchase novel-timeline.
 
 ## Governing version · 적용되는 원본
 
-- **English versions are the legally binding originals.** In case of any discrepancy between the Korean and English texts, the English text prevails.
-- **영문본이 법적 원본입니다.** 한국어본과 영문본 사이에 차이가 있을 경우 **영문본이 우선**합니다. 한국어본은 한국어 사용자의 편의를 위한 번역입니다.
+- **Legal Source of Truth**: All legal documents in this repository — EULA ([`LICENSE.en`](../LICENSE.en)), Terms ([`legal/terms.en.md`](./terms.en.md)), Refund Policy ([`legal/refund.en.md`](./refund.en.md)), Privacy Policy ([`legal/privacy.en.md`](./privacy.en.md)) — have **English as the controlling, official version**. Korean translations are provided for convenience and have no legal precedence.
+- **본 리포의 모든 법적 문서**(EULA / 이용약관 / 환불 정책 / 개인정보 처리방침)는 **영문판이 정본**이며, 한국어 번역은 편의 제공용입니다. 분쟁 시 영문판이 우선합니다.
 
 ## Effective date · 시행일
 
