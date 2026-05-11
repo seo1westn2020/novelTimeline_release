@@ -173,6 +173,11 @@ conflict, the **English version prevails**.
 
 Copyright © 2026 Seo Il-seon (novel-timeline). All rights reserved.
 
+**Korean Copyright Registration (Korea Copyright Commission, CROS)**
+- Work Title: novel-timeline (소설타임라인)
+- Registration No.: C-2026-022388
+- Registration Date: May 2026
+
 ---
 
 ## Legal Documents

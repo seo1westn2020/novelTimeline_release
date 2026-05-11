@@ -169,6 +169,11 @@ novel-timeline은 1인 인디 프로젝트입니다. **금전 후원뿐 아니�
 
 Copyright © 2026 서일선 (novel-timeline). All rights reserved.
 
+**한국 저작권 등록 (한국저작권위원회 CROS)**
+- 저작물명: novel-timeline (소설타임라인)
+- 등록번호: 제 C-2026-022388 호
+- 등록년월: 2026년 5월
+
 ---
 
 ## 법적 문서 / Legal Documents
